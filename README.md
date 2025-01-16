@@ -1,4 +1,5 @@
 # deploy-demo-static
+[预览](https://hgf0419.github.io/deploy-demo-static/)
 
 ## 简介
 本项目是一个静态网站部署项目的演示demo，使用 GitHub Actions 自动部署到 GitHub Pages。
@@ -11,6 +12,8 @@
 2. 推送代码到 GitHub 仓库。
 
 3. 等待 GitHub Actions 完成部署。
+
+
 
 
 
